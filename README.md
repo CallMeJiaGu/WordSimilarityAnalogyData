@@ -1,5 +1,5 @@
-# WordSimilarityData
-<font color="#FF00000">**用于验证词向量效果好坏的数据集。**</font>
+WordSimilarityData
+**用于验证词向量效果好坏的数据集。**
 
 ## 词的相似性任务-Word Similarity
 
