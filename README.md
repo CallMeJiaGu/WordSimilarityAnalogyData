@@ -1,7 +1,7 @@
 # WordSimilarityData
 <font color="#FF00000">**用于验证词向量效果好坏的数据集。**</font>
 
-#### 词的相似性任务-Word Similarity
+## 词的相似性任务-Word Similarity
 
 **常用的英文数据集：WordSim-353 、MEN、SCWS**
 
@@ -20,7 +20,7 @@
 
 
 
-#### 词的类比任务-Word Analogy
+## 词的类比任务-Word Analogy
 
 **常用的中文数据集：Chen 2015年构造的评测文件**
 
